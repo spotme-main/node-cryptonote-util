@@ -1,2 +1,7 @@
-# node-cryptonote-util
-tool needed for building pool server
+Node-Cryptonote-Util
+====================
+
+Dependencies
+------------
+
+* Boost (http://www.boost.org/)
